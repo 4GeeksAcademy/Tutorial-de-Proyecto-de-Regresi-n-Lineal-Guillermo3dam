@@ -1,0 +1,1 @@
+{"age": {"lower_limit": 18.0, "upper_limit": 87.0}, "bmi": {"lower_limit": 13.675, "upper_limit": 47.315}, "children": {"lower_limit": 0.0, "upper_limit": 5.0}}
